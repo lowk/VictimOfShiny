@@ -7,5 +7,7 @@ https://github.com/VictimOfMaths/COVID-19/blob/master/All%20Cause%20Mortality/LA
 Generate plots of COVID19 excess deaths, deaths or case numbers by England, Scotland or Wales Local Authorities. Run by downloading all scripts to a directory, installing dependencies, and then running:
 
 setwd('path/to/dir')
+
 library(shiny)
+
 runApp()
